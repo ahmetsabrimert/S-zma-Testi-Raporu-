@@ -1,2 +1,2 @@
 # Sızma-Testi-Raporu-
-Bootcamp sonunda bitirme projesi olarak yazdığım sızma testi raporu.
+Bootcamp sonunda bitirme projesi için Türkçe olarak sızma testi raporu yazdım.
